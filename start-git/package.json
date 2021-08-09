@@ -25,7 +25,8 @@
   },
   "dependencies": {
     "dateformat": "2.0.0",
-    "lodash": "4.17.4"
+    "lodash": "4.17.4",
+    "npm-install-all": "^1.1.21"
   },
   "peerDependencies": {
     "start": ">= 5.1.0"
