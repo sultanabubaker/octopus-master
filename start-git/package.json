@@ -25,8 +25,7 @@
   },
   "dependencies": {
     "dateformat": "2.0.0",
-    "lodash": "4.17.4",
-    "markdown-magic": "^0.1.15"
+    "lodash": "4.17.4"
   },
   "peerDependencies": {
     "start": ">= 5.1.0"
