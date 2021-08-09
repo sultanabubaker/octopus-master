@@ -25,10 +25,7 @@
   },
   "dependencies": {
     "dateformat": "2.0.0",
-    "lodash": "4.17.4",
-    "object-filter": "1.0.2",
-    "parse-gitignore": "0.4.0",
-    "shelljs": "0.7.7"
+    "lodash": "4.17.4"
   },
   "peerDependencies": {
     "start": ">= 5.1.0"
