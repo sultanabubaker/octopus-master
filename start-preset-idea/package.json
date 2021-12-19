@@ -35,7 +35,7 @@
     "chai": "3.5.0",
     "eslint": "3.19.0",
     "eslint-plugin-mocha": "4.9.0",
-    "mocha": "3.4.1",
+    "mocha": "4.0.0",
     "npm-version-up": "0.1.5",
     "octopus-test-utils": "~0.0.2",
     "shelljs": "0.7.7",
