@@ -20,7 +20,7 @@
     "url": "https://github.com/wix/octopus/issues"
   },
   "devDependencies": {
-    "markdown-magic": "^0.1.15",
+    "markdown-magic": "^2.0.0",
     "octopus-start-modules-tasks": "latest",
     "octopus-start-preset-depcheck": "latest",
     "octopus-start-preset-dependencies": "latest",
